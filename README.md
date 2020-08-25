@@ -165,9 +165,6 @@ Let's run the "DropDownTest" class. We get following result:
 	<img width="900px" src="Image/dropdown3.png" align="center"/>
 	<br>
 	<br>
-	<img width="900px" src="Image/dropdown4.png" align="center"/>
-	<br>
-	<br>
 	<img width="900px" src="Image/dropdown5.png" align="center"/>
 </p>
 
