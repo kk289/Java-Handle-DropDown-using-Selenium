@@ -175,3 +175,6 @@ Let's run the "DropDownTest" class. We get following result:
 
 <b>The program run successfully. Thank you. Let me know if you have any questions.</b>
 
+Note: 
+- Original Code from https://naveenautomationlabs.com/handle-dropdown-using-select-class-in-selenium/ . I used it to learn select class of selenium package. I have modified the code little bit which make more easier to understand now. If you have any questions, please let me know. Make sure you check the given website too. 
+
