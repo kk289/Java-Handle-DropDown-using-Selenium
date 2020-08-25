@@ -153,6 +153,19 @@ public class DropDownTest {
 }
 ```
 
+<details>
+	<SUMMARY><b>NOTE</b></SUMMARY>
+
+Some people may get error on following code:
+
+``` 
+String path = System.getProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
+```
+
+I have issue on my Macbook where I couldnt use chromedriver just by mentioning its dependency on pom.xml file. I have to download the chromedriver manually and store it system to use Google Chrome Browser. You can check my [Java Automation- Open Browser](https://github.com/kk289/Java-Automation-OpenBrowser) where I have provided step by step process to setup chromedriver. Just check it if you find any issue while running this "DropDownTest" class. 
+
+</details>
+
 Let's run the "DropDownTest" class. We get following result: 
 
 <p align="center">
