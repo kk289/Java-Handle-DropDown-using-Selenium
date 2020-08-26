@@ -46,7 +46,7 @@ An example of [pom.xml](https://github.com/kk289/Java-Handle-DropDown-using-Sele
 
     <dependencies>
 
-	    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java-->
+	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java-->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
@@ -62,16 +62,16 @@ An example of [pom.xml](https://github.com/kk289/Java-Handle-DropDown-using-Sele
             <scope>test</scope>
         </dependency>
 
-         <!-- https://mvnrepository.com/artifact/javax.mail -->
+        <!-- https://mvnrepository.com/artifact/javax.mail -->
         <dependency>
             <groupId>javax.mail</groupId>
             <artifactId>mail</artifactId>
             <version>1.5.0-b01</version>
             <scope>test</scope>
         </dependency>
-
+	
     </dependencies>
-
+    
 </project>
 ```
 
