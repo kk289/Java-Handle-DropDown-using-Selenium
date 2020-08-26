@@ -14,7 +14,7 @@ Platform supporting Maven: [IntelliJ IDEA CE](https://www.jetbrains.com/idea/dow
 
 4. Click Next, and give a name to your project, like "DropdownProj"
 
-5. Now create a package inside src/test/java/ and name it "Dopdown" then create a class inside it, name it "DropDownTest", and we also need to create a main class, name it "JavaMail"
+5. Now create a package inside src/test/java/ and name it "Dopdown" then create a class inside it, name it "DropDownTest".
 
 
 <h4> What is Maven? </h4>
